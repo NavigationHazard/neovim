@@ -4,7 +4,7 @@ my Neovim  c++ and typescript lsp fish powershell Gruvbox
 brew install --HEAD tree-sitter luajit neovim
 
 git clone https://github.com/NavigationHazard/neovim.git 
-
+sudo cp -rf neovim ~/
 
 npm install -g typescript typescript-language-server
 
